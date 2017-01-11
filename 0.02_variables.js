@@ -11,9 +11,9 @@ console.log(fullname);
 
 // empty variables
 
-//variable declaration or initialization
+//variable declaration
 var num;
-//variable assignment
+//variable assignment or initialization
 var num = 2;
 console.log(num);
 
